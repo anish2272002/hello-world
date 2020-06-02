@@ -1,0 +1,14 @@
+.container {
+    font-size:20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+.compute {
+    font-size:20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    background: #f84e51;
+    padding: 1%;
+    color: #fff;
+}
